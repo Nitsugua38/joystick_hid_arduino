@@ -1,0 +1,15 @@
+{
+  "name": "screen_joystick",
+  "version": "1.0.0",
+  "description": "Control your mouse with an Arduino joystick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitsugua38",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "serialport": "^12.0.0"
+  }
+}
